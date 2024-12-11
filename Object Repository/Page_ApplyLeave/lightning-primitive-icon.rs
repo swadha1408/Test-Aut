@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>lightning-primitive-icon</name>
+   <tag></tag>
+   <elementGuidId>bc4293d1-26c4-4d81-8902-dfb9f548f666</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.slds-button.slds-button_icon.slds-button_icon-container > lightning-primitive-icon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//lightning-input[@id='end-date-111']/lightning-datepicker/div/div/lightning-calendar/div/lightning-focus-trap/slot/div/div/div/lightning-button-icon/button/lightning-primitive-icon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>lightning-primitive-icon</value>
+      <webElementGuid>38c301ab-6807-4def-8771-486bf3856d6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>exportparts</name>
+      <type>Main</type>
+      <value>icon</value>
+      <webElementGuid>66f2c528-0c3c-479f-ba5e-3b5faeb0c0ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>variant</name>
+      <type>Main</type>
+      <value>bare</value>
+      <webElementGuid>53cc2387-c32f-4caf-bbf4-0d5b86756218</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;end-date-111&quot;)/lightning-datepicker[1]/div[@class=&quot;slds-dropdown-trigger slds-dropdown-trigger_click slds-size_1-of-1 slds-is-open&quot;]/div[@class=&quot;slds-form-element__control slds-input-has-icon slds-input-has-icon_right&quot;]/lightning-calendar[1]/div[@class=&quot;slds-datepicker slds-dropdown slds-dropdown_left&quot;]/lightning-focus-trap[1]/slot[1]/div[@class=&quot;slds-datepicker__filter slds-grid&quot;]/div[@class=&quot;slds-datepicker__filter_month slds-grid slds-grid_align-spread slds-grow&quot;]/div[@class=&quot;slds-align-middle&quot;]/lightning-button-icon[1]/button[@class=&quot;slds-button slds-button_icon slds-button_icon-container&quot;]/lightning-primitive-icon[1]</value>
+      <webElementGuid>b9512b22-6a09-4dd4-b8c7-1b285aa3dc7b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//lightning-input[@id='end-date-111']/lightning-datepicker/div/div/lightning-calendar/div/lightning-focus-trap/slot/div/div/div/lightning-button-icon/button/lightning-primitive-icon</value>
+      <webElementGuid>56eddb5e-4a4e-4527-82f7-90c6e1d5967f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select a date for End Date'])[1]/following::lightning-primitive-icon[1]</value>
+      <webElementGuid>341911b8-3ab7-4224-b4c1-3292bc5bf518</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[4]/following::lightning-primitive-icon[2]</value>
+      <webElementGuid>cc0860a2-5ecd-4bbc-862b-32e413aa4ce0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Previous Month'])[1]/preceding::lightning-primitive-icon[1]</value>
+      <webElementGuid>73c14e23-326f-4e2c-ae79-9be1623dbc2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='December'])[1]/preceding::lightning-primitive-icon[1]</value>
+      <webElementGuid>590ea92c-c43c-4d0d-a71b-6b4b93ca35ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/lightning-button-icon/button/lightning-primitive-icon</value>
+      <webElementGuid>24388d52-04eb-4c6a-b874-36308a699d05</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

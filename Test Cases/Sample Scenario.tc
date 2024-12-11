@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test</description>
+   <name>Sample Scenario</name>
+   <tag>Sample Scenario</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9ad0c6d5-5f97-41ec-acdd-915e22dca77c</testCaseGuid>
+</TestCaseEntity>

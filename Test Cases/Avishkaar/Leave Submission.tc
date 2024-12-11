@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Leave Submission</name>
+   <tag>Leave_Submission</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d1772d57-e05b-480a-985d-124c4ee3a16e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>af409557-6fdc-4c47-b4a0-c9fa7b24d1c8</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f1bef79a-3e30-4647-b72b-cdabad73e75a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>88da2d49-15f5-427a-ae9d-54ed086204cd</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>af409557-6fdc-4c47-b4a0-c9fa7b24d1c8</id>
+      <masked>false</masked>
+      <name>Reason</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f1bef79a-3e30-4647-b72b-cdabad73e75a</id>
+      <masked>false</masked>
+      <name>Start_Date</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>88da2d49-15f5-427a-ae9d-54ed086204cd</id>
+      <masked>false</masked>
+      <name>End_Date</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_My Applied Leave_slds-icon slds-icon-te_a4c030</name>
+   <tag></tag>
+   <elementGuidId>d4a83673-477d-455e-ae5a-039c05fc5aae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>svg.slds-icon.slds-icon-text-default.slds-icon_xx-small</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='My Applied Leave'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>fab38100-f708-4e8e-b889-604e5d20a990</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>focusable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>f312f6f5-693c-44f2-8d08-52e402faba32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>964d13e5-a0db-4f2a-89f6-203b8be1fe71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 520 520</value>
+      <webElementGuid>58881676-fd05-4f66-8a48-c6ae163f78c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>part</name>
+      <type>Main</type>
+      <value>icon</value>
+      <webElementGuid>4b5d63e3-4128-4d1e-b681-f37ff0cdb945</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-key</name>
+      <type>Main</type>
+      <value>down</value>
+      <webElementGuid>18fa8720-9ecf-4a26-a4a5-5b06a7792e9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slds-icon slds-icon-text-default slds-icon_xx-small</value>
+      <webElementGuid>3f9d6931-1757-4ee9-9c1c-dfe44eefa7c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;slds-no-wcag&quot;]/body[@class=&quot;null comm-page-list-a5k&quot;]/div[@class=&quot;themeLayoutStarterWrapper isHeroUnderHeader-false isHeaderPinned-false siteforceThemeLayoutStarter&quot;]/div[@class=&quot;body isPageWidthFixed-true&quot;]/div[@class=&quot;siteforceSldsOneColLayout siteforceContentArea&quot;]/div[@class=&quot;slds-col--padded contentRegion comm-layout-column&quot;]/div[1]/div[@class=&quot;ui-widget&quot;]/div[@class=&quot;empty  test-listViewManager slds-card slds-card_boundary slds-grid slds-grid_vertical slds-grid--vertical forceListViewManager forceCommunityRecordListDesktop forceCommunityObjectHome&quot;]/div[@class=&quot;slds-page-header_object-home slds-page-header--object-home slds-page-header_joined slds-page-header_bleed slds-page-header slds-shrink-none test-headerRegion forceListViewManagerHeader&quot;]/div[@class=&quot;slds-grid&quot;]/div[@class=&quot;slds-col slds-has-flexi-truncate firstHeaderRow&quot;]/div[@class=&quot;slds-media slds-no-space slds-grow&quot;]/div[@class=&quot;slds-media__body slds-align-middle&quot;]/div[@class=&quot;slds-grid slds-media__body&quot;]/div[@class=&quot;slds-truncate&quot;]/div[@class=&quot;triggerLink slds-type-focus slds-truncate slds-page-header__title slds-text-color_default slds-text-color--default triggerLinkFocused forceListViewPicker&quot;]/div[@class=&quot;triggerLinkTextAndIconWrapper slds-page-header__name&quot;]/div[@class=&quot;slds-page-header__name-switcher&quot;]/div[@class=&quot;slds-dropdown-trigger slds-dropdown-trigger_click lst-temp-slds-lineHeight&quot;]/button[@class=&quot;slds-button slds-button_reset slds-button--reset slds-button_icon slds-button_icon-small slds-button_icon-container downIcon slds-m-bottom_xx-small&quot;]/lightning-icon[@class=&quot;slds-icon-utility-down slds-icon_container&quot;]/span[1]/lightning-primitive-icon[1]/svg[@class=&quot;slds-icon slds-icon-text-default slds-icon_xx-small&quot;]</value>
+      <webElementGuid>ce89e2f3-26c5-4610-be3b-a6dc0ff2fd5d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Applied Leave'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>574442c5-970a-4cad-996a-f94fa8dd5555</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Employee Leave'])[2]/following::*[name()='svg'][1]</value>
+      <webElementGuid>6bcb44a3-89d5-4b75-a54d-30e1358eb6f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select a List View: Employee Leave'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>55d4f87f-4f5a-4158-b0d6-970f7c20fb64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pin this list view.'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>65c6ebe2-c81d-49ea-a8ec-060f0be2928c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_New to Flipkart Create an account</name>
+   <tag></tag>
+   <elementGuidId>ed3d56cf-c1e2-46d7-a812-df9c283fe22c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='container']/div/div[3]/div/div[2]/div/form/div[4]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.azBkHf</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4e1d9eec-a57b-48f4-8a3f-4608f665bf3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>azBkHf</value>
+      <webElementGuid>e1ccbc7c-a471-4a3e-9adb-12b84e0f216a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/account/login?signup=true</value>
+      <webElementGuid>4118275f-4510-40d6-aca4-55db65f3b753</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>New to Flipkart? Create an account</value>
+      <webElementGuid>7eb99487-78a5-488e-9845-33ffef4b94c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;container&quot;)/div[1]/div[@class=&quot;VCR99n&quot;]/div[@class=&quot;NXna7w row wjcbtA&quot;]/div[@class=&quot;Sm1-5F col col-3-5&quot;]/div[1]/form[1]/div[@class=&quot;ZJ3AS1&quot;]/a[@class=&quot;azBkHf&quot;]</value>
+      <webElementGuid>6e6dac7b-e9de-4d3e-ac9c-b0995595dc07</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='container']/div/div[3]/div/div[2]/div/form/div[4]/a</value>
+      <webElementGuid>d854ce87-1fc4-48a8-8629-7493a54ca5a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'New to Flipkart? Create an account')]</value>
+      <webElementGuid>85a50f99-e9e0-49fc-8158-20bdc8595de0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Request OTP'])[1]/following::a[1]</value>
+      <webElementGuid>bb345bf1-0bf5-4d89-a092-e42834624059</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy Policy'])[1]/following::a[1]</value>
+      <webElementGuid>d7aaae33-5b9c-49d6-8b9d-0d05c0d9c6fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ABOUT'])[1]/preceding::a[1]</value>
+      <webElementGuid>adae72a4-e92f-4597-8ed6-1f8cffb558fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Us'])[1]/preceding::a[1]</value>
+      <webElementGuid>2e83a5e5-dbd2-48ce-9852-697c3c1be375</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='New to Flipkart? Create an account']/parent::*</value>
+      <webElementGuid>70b439a8-323e-406e-8d69-22005ce4a909</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/account/login?signup=true')]</value>
+      <webElementGuid>850cc37a-1991-4466-bfd3-af9de587eecc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[4]/a</value>
+      <webElementGuid>6d169814-4e95-4075-acf1-4f6f5e51ad3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/account/login?signup=true' and (text() = 'New to Flipkart? Create an account' or . = 'New to Flipkart? Create an account')]</value>
+      <webElementGuid>e45f7816-a9fd-46c6-aba6-bef7c773a61b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

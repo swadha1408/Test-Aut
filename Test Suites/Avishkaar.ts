@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description>Leave Submission &amp; Approval</description>
+   <name>Avishkaar</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>b930ebb3-7c8f-4821-a8be-0e592b242fb4</testSuiteGuid>
+   <testCaseLink>
+      <guid>b5be9585-a700-40a6-9bbe-d56c56d8ed49</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Login_Employee</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>891b26e0-52c8-4734-a77c-195093d3b991</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/LeaveSubmission</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>891b26e0-52c8-4734-a77c-195093d3b991</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>UserName</value>
+         <variableId>2365c8af-b5a9-4449-a50e-a171898fae05</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>891b26e0-52c8-4734-a77c-195093d3b991</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password</value>
+         <variableId>d9163661-ec09-415c-aea8-4f1ca1be3403</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>7564060d-83f5-454f-b2b5-3d062b79024d</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Avishkaar/Leave Submission</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>2c302e38-d2b7-4c73-8628-9b8b29639691</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Leave Submission Details</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>2c302e38-d2b7-4c73-8628-9b8b29639691</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Reason</value>
+         <variableId>af409557-6fdc-4c47-b4a0-c9fa7b24d1c8</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>2c302e38-d2b7-4c73-8628-9b8b29639691</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Start_Date</value>
+         <variableId>f1bef79a-3e30-4647-b72b-cdabad73e75a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>2c302e38-d2b7-4c73-8628-9b8b29639691</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>End_Date</value>
+         <variableId>88da2d49-15f5-427a-ae9d-54ed086204cd</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

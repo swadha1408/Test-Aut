@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Applied</name>
+   <tag></tag>
+   <elementGuidId>89297b00-6ea9-433f-8d6e-00c9550e9a31</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.slds-form-element.slds-form-element_readonly.slds-grow.slds-hint-parent.override--slds-form-element.hover > dd.slds-form-element__control.slds-grid.itemBody > span.test-id__field-value.slds-form-element__static.slds-grow.is-read-only</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span//span[contains(text(),&quot;Applied&quot;)]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>00a65732-e0f2-428f-9c99-a2859c1a0702</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>test-id__field-value slds-form-element__static slds-grow  is-read-only</value>
+      <webElementGuid>d58a74e3-788d-4d08-8396-5ea416867435</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-aura-rendered-by</name>
+      <type>Main</type>
+      <value>246:2732;a</value>
+      <webElementGuid>0ab3e54a-c94b-461f-b1e4-ea1d613bbf43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Applied</value>
+      <webElementGuid>0c16e9c8-8486-41b0-b005-5a7f1635f70d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;153:2732;a&quot;)/div[@class=&quot;slds-form slds-form_stacked&quot;]/dl[@class=&quot;slds-grid slds-gutters_small full cols-2 forcePageBlockSectionRow&quot;]/div[@class=&quot;slds-col slds-grid slds-has-flexi-truncate  full forcePageBlockItem forcePageBlockItemView&quot;]/div[@class=&quot;slds-form-element slds-form-element_readonly slds-grow slds-hint-parent override--slds-form-element hover&quot;]/dd[@class=&quot;slds-form-element__control slds-grid itemBody&quot;]/span[@class=&quot;test-id__field-value slds-form-element__static slds-grow  is-read-only&quot;]</value>
+      <webElementGuid>a6af241c-f146-4b2f-99d2-50c33b8cbfe0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='153:2732;a']/div/dl[3]/div/div/dd/span</value>
+      <webElementGuid>b6a09c6b-ca64-4c57-8dec-729e70bfedd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[1]/following::span[1]</value>
+      <webElementGuid>6df522c5-9847-46d3-826f-eea2e5b88e04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reason'])[1]/following::span[4]</value>
+      <webElementGuid>89ee01bf-8e5e-4697-895e-d4f342dd5232</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Applied By'])[1]/preceding::span[2]</value>
+      <webElementGuid>f4c5a213-1a1f-489c-9ab4-99dccf34b12e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//fieldset[2]/div/div/dl[3]/div/div/dd/span</value>
+      <webElementGuid>816ae473-ed68-4156-87c7-89a925b16b39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Applied' or . = 'Applied')]</value>
+      <webElementGuid>2cd05098-298f-4f50-a7fb-4d1e513df9dc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

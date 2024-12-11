@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Flipkart signin</description>
+   <name>Flipkart</name>
+   <tag>Signin</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b8da291b-b0a8-4f5b-96d6-92cc65a83d68</testCaseGuid>
+</TestCaseEntity>
